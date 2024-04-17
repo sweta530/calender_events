@@ -1,0 +1,35 @@
+.wrapper {
+    background-color: aliceblue;
+}
+
+.button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.date-container {
+    margin-right: 10px; 
+}
+
+.calender {
+    width: 95%;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: auto;
+    padding: 10px;
+}
